@@ -1,8 +1,7 @@
-Welcome to the AWS CodeStar sample web service
+Welcome to the AWS CodeStar Pokemon web service
 ==============================================
 
-This sample code helps get you started with a simple Java web service
-deployed by AWS Elastic Beanstalk and AWS CloudFormation.
+This is a Rest Service running on AWS on [http://pokemonapp.eba-qh2kq2gu.us-east-2.elasticbeanstalk.com/brightcove/damage/12/12?limit=5](http://pokemonapp.eba-qh2kq2gu.us-east-2.elasticbeanstalk.com/brightcove/damage/12/12?limit=5)
 
 What's Here
 -----------
