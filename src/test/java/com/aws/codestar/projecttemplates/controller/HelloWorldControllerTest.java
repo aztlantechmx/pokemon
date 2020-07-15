@@ -8,6 +8,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
+import com.example.brightcove.controller.HelloWorldController;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
